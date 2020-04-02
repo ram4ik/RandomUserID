@@ -13,6 +13,7 @@
 		95A52ECF243609DC00DE2865 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95A52ECE243609DC00DE2865 /* Assets.xcassets */; };
 		95A52ED2243609DC00DE2865 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95A52ED1243609DC00DE2865 /* Preview Assets.xcassets */; };
 		95A52ED5243609DC00DE2865 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95A52ED3243609DC00DE2865 /* LaunchScreen.storyboard */; };
+		95A52EDD24360A1900DE2865 /* MyAppFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A52EDC24360A1900DE2865 /* MyAppFunctions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		95A52ED1243609DC00DE2865 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		95A52ED4243609DC00DE2865 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		95A52ED6243609DC00DE2865 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95A52EDC24360A1900DE2865 /* MyAppFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppFunctions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				95A52EC8243609DA00DE2865 /* AppDelegate.swift */,
 				95A52ECA243609DA00DE2865 /* SceneDelegate.swift */,
 				95A52ECC243609DA00DE2865 /* ContentView.swift */,
+				95A52EDC24360A1900DE2865 /* MyAppFunctions.swift */,
 				95A52ECE243609DC00DE2865 /* Assets.xcassets */,
 				95A52ED3243609DC00DE2865 /* LaunchScreen.storyboard */,
 				95A52ED6243609DC00DE2865 /* Info.plist */,
@@ -149,6 +152,7 @@
 				95A52EC9243609DA00DE2865 /* AppDelegate.swift in Sources */,
 				95A52ECB243609DA00DE2865 /* SceneDelegate.swift in Sources */,
 				95A52ECD243609DA00DE2865 /* ContentView.swift in Sources */,
+				95A52EDD24360A1900DE2865 /* MyAppFunctions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
